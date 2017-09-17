@@ -19,6 +19,6 @@ button.onclick= function(){
     
     
     // render the variable
-        request.open('GET', 'https://coco98.imad.hasura-app.io/counter',true);
+        request.open('GET', 'https://rahulmahadik2.imad.hasura-app.io/',true);
         request.send(null);
 };
