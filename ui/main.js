@@ -1,7 +1,7 @@
 // counter value needs to be incremented
 
 var button = document.getElementById('counter');
-counter=0;
+var counter=0;
 button.onclick= function()
 {
     // make a request
