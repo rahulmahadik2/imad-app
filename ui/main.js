@@ -11,6 +11,6 @@ button.onclick= function()
     
     // render the variable
     counter=counter+1;
-    var span = document.getElementById('count');
+    var span = document.getElementById('counter');
     span.innerHTML = counter.toString();
 };
